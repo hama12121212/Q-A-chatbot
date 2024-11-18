@@ -1,1 +1,5 @@
-# Q-A-chatbot
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
